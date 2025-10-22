@@ -87,4 +87,4 @@ MIT License. Veja `LICENSE`.
 ## Contato
 Luis Paulo Albuquerque Guedes  
 Centro de Guerra Acústica e Eletrônica da Marinha (CGAEM)  
-E-mail: luis.guedes@marinha.mil.br
+E-mail: luis.albuquerque@marinha.mil.br
