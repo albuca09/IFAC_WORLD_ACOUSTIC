@@ -74,8 +74,8 @@ python evaluate.py --input checkpoints/M4_best.pt --level file
 Se este código for útil, por favor cite:
 ```bibtex
 @article{Guedes2025WolfsetGRU,
-  title   = {Multitask Recognition of Underwater Engine Types and Operating States via Attention-Based GRU and Sub-Spectral Decomposition},
-  author  = {Guedes, Luis P. A. and Santos, N. P. and Moura, R. and Lobo, V.},
+  title   = {Multitask Recognition of Underwater Engine Types and Operating States via an Attention-Based GRU with Sub-Spectral Decomposition},
+  author  = {Guedes, Luis P. A. and Guedes, Pedro. H.},
   year    = {2025},
   journal = {IFAC World Congress / arXiv Preprint}
 }
