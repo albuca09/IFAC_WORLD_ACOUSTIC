@@ -1,0 +1,1 @@
+# Placeholder: implementação Transformer temporal.
